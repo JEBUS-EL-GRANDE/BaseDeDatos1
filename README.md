@@ -22,4 +22,4 @@ En esta materia se vio los temas de:
 
 
 ### practicas en posgreSQL (haciendo consultas)
-![imagen de mis practicas](readMeIMG/img1.jpeg "imagen de mi mis practicas en posgreSQL")
+![imagen de mis practicas](readMeIMG/img2.jpeg "imagen de mi mis practicas en posgreSQL")
