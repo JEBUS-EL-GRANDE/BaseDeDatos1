@@ -13,3 +13,13 @@ En esta materia se vio los temas de:
 - DISEÑO CONCEPTUAL DE BASE DATOS BAJO UN MODELO ORIENTADO A OBJETOS(relaciones)
 - Transformación del Modelo Orientado a Objetos al Modelo Relacional o Mapeo
 - SQL(Lenguaje de consulta estructurado)
+
+### diagrama entidad relacion
+![imagen de mis practicas](readMeIMG/img0.png "imagen de mi mis practicas en UML")
+
+### practicas en posgreSQL (creando tablas)
+![imagen de mis practicas](readMeIMG/img1.jpeg "imagen de mi mis practicas en posgreSQL")
+
+
+### practicas en posgreSQL (haciendo consultas)
+![imagen de mis practicas](readMeIMG/img1.jpeg "imagen de mi mis practicas en posgreSQL")
