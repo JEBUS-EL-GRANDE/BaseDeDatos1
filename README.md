@@ -17,9 +17,9 @@ En esta materia se vio los temas de:
 ### diagrama entidad relacion
 ![imagen de mis practicas](readMeIMG/img0.png "imagen de mi mis practicas en UML")
 
-### practicas en posgreSQL (creando tablas)
-![imagen de mis practicas](readMeIMG/img1.jpeg "imagen de mi mis practicas en posgreSQL")
+### practicas en postgreSQL (creando tablas)
+![imagen de mis practicas](readMeIMG/img1.jpeg "imagen de mi mis practicas en postgreSQL")
 
 
-### practicas en posgreSQL (haciendo consultas)
-![imagen de mis practicas](readMeIMG/img2.jpeg "imagen de mi mis practicas en posgreSQL")
+### practicas en postgreSQL (haciendo consultas)
+![imagen de mis practicas](readMeIMG/img2.jpeg "imagen de mi mis practicas en postgreSQL")
